@@ -97,28 +97,28 @@ int main() {
 // Display program header
 void displayHeader() {
     cout << "\n";
-    cout << "╔════════════════════════════════════════════════════════╗\n";
-    cout << "║                                                        ║\n";
-    cout << "║       BINARY SEARCH TREE TO QUEUE CONVERTER           ║\n";
-    cout << "║                                                        ║\n";
-    cout << "║     CS301 - Assignment 7: Queue Converter             ║\n";
-    cout << "║                                                        ║\n";
-    cout << "╚════════════════════════════════════════════════════════╝\n";
+    cout << "  --------------------------------------------------------\n";
+    cout << "|                                                          |\n";
+    cout << "|         BINARY SEARCH TREE TO QUEUE CONVERTER            |\n";
+    cout << "|         CS301 - Assignment 7: Queue Converter            |\n";
+    cout << "|                                                          |\n";
+    cout << "|                                                          |\n";
+    cout << "  --------------------------------------------------------\n";
     cout << "\n";
 }
 
 // Display menu
 void displayMenu() {
     cout << "\n";
-    cout << "┌────────────────────────────────────────┐\n";
-    cout << "│           MAIN MENU                    │\n";
-    cout << "├────────────────────────────────────────┤\n";
-    cout << "│  1. Load Data from File                │\n";
-    cout << "│  2. Display BST Structure              │\n";
-    cout << "│  3. Display BST Statistics             │\n";
-    cout << "│  4. Convert BST to Queue (Inorder)     │\n";
-    cout << "│  5. Exit Program                       │\n";
-    cout << "└────────────────────────────────────────┘\n";
+    cout << " ----------------------------------------\n";
+    cout << "|           MAIN MENU                    |\n";
+    cout << "|----------------------------------------|\n";
+    cout << "|  1. Load Data from File                |\n";
+    cout << "|  2. Display BST Structure              |\n";
+    cout << "|  3. Display BST Statistics             |\n";
+    cout << "|  4. Convert BST to Queue (Inorder)     |\n";
+    cout << "|  5. Exit Program                       |\n";
+    cout << " ----------------------------------------\n";
     cout << "\n";
 }
 
